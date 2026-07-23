@@ -1,0 +1,15 @@
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Data temporary files
+*.tmp
+*.log
